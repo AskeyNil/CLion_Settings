@@ -36,4 +36,10 @@
       <option name="OC_DECLARATION_CPP" value="true" />
     </context>
   </template>
+  <template name="line" value="// ★×**×★☆×**×★☆×**×★☆×**×★☆  $message$  ☆★×**×☆★×**×☆★×**×☆★×**×★&#10;" description="分隔线" toReformat="false" toShortenFQNames="true">
+    <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="cpp" value="true" />
+    </context>
+  </template>
 </templateSet>
