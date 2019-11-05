@@ -1,4 +1,0 @@
-<keymap version="1" name="Default for macOS 复制" parent="Mac OS X 10.5+">
-  <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateProjectToolWindow" />
-</keymap>
