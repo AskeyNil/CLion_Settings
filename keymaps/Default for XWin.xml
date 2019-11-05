@@ -1,0 +1,7 @@
+<keymap version="1" name="Default for XWin 复制" parent="Default for XWin">
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+</keymap>
