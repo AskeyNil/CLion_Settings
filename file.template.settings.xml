@@ -1,8 +1,0 @@
-<application>
-  <component name="ExportableFileTemplateSettings">
-    <internal_templates>
-      <template name="C++ Class.cc" reformat="true" live-template-enabled="true" enabled="true" />
-      <template name="C++ Class Header.h" reformat="true" live-template-enabled="true" enabled="true" />
-    </internal_templates>
-  </component>
-</application>
