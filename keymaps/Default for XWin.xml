@@ -4,4 +4,8 @@
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
 </keymap>
