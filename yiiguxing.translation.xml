@@ -1,0 +1,25 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="File is too complex to perform data-flow analysis Inspection info: This inspection reports the issues found by context-sensitive data flow analyser. Such as: &quot;Condition is always true/false&quot;, &quot;Incompatible cast&quot;, &quot;Null dereference&quot;, &quot;Unreachable code&quot;, etc." />
+      <item value="File is too complex to perform data-flow analysis" />
+      <item value="feature Imgs" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="13324a4d52fbe613" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
