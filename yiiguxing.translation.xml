@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Clang-Tidy: Initialization of 'driver' with static storage duration may throw an exception that cannot be caught" />
       <item value="This application failed to start because it could not find or load the Qt platform plugin &quot;xcb&quot;." />
       <item value="File is too complex to perform data-flow analysis Inspection info: This inspection reports the issues found by context-sensitive data flow analyser. Such as: &quot;Condition is always true/false&quot;, &quot;Incompatible cast&quot;, &quot;Null dereference&quot;, &quot;Unreachable code&quot;, etc." />
       <item value="File is too complex to perform data-flow analysis" />
