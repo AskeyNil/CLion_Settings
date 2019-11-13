@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Joint control currents" />
+      <item value="Target joint moments (torques)" />
+      <item value="current" />
+      <item value="currents" />
+      <item value="Target joint currents" />
+      <item value="Time elapsed since the controller was started" />
+      <item value="Total message length in bytes" />
       <item value="Clang-Tidy: Use '= delete' to prohibit calling of a special member function" />
       <item value="Clang-Tidy: Initialization of 'driver' with static storage duration may throw an exception that cannot be caught" />
       <item value="This application failed to start because it could not find or load the Qt platform plugin &quot;xcb&quot;." />
@@ -10,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
