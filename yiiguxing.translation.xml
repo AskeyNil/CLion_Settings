@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Second argument to 'va_arg' is of non-POD type 'QVector&lt;double&gt;'" />
+      <item value="Default argument references parameter 'state'" />
+      <item value="Second argument to 'va_start' is not the last named parameter" />
       <item value="Elbow" />
       <item value="Program state" />
       <item value="Digital outputs" />
