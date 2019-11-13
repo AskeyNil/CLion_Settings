@@ -1,6 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Elbow" />
+      <item value="Program state" />
+      <item value="Digital outputs" />
+      <item value="Main voltage" />
+      <item value="Masterboard" />
+      <item value="Norm of Cartesian linear momentum" />
+      <item value="Speed scaling of the trajectory limiter" />
+      <item value="Tool x,y and z accelerometer values" />
+      <item value="Used by Universal Robots software only" />
+      <item value="Safety" />
+      <item value="Mode" />
+      <item value="A value used by Universal Robots software only" />
+      <item value="Controller realtime thread execution time" />
+      <item value="Temperature of each joint in degrees celsius" />
+      <item value="Current state of the digital inputs. NOTE: these are bits encoded as int64_t, e.g. a value of 5 corresponds to bit 0 and bit 2 set high" />
+      <item value="forces" />
+      <item value="Generalised" />
+      <item value="Generalised forces in the TCP" />
+      <item value="Target speed of the tool given in Cartesian coordinates" />
+      <item value="// Target speed of the tool given in Cartesian coordinates" />
+      <item value="Actual Cartesian coordinates of the tool: (x,y,z,rx,ry,rz), where rx, ry and rz is a rotation vector representation of the tool orientation" />
       <item value="Joint control currents" />
       <item value="Target joint moments (torques)" />
       <item value="current" />
@@ -17,8 +38,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="33" />
       </map>
     </option>
   </component>
