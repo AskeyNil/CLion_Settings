@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Clang-Tidy: Use of a signed integer operand with a binary bitwise operator" />
       <item value="Fixed mode" />
       <item value="Unconstrained mode" />
       <item value="path point (note: only position is used). Pose_via can also be specified as joint positions, then forward kinematics is used to calculate the corresponding pose." />
