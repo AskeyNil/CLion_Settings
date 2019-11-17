@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FIXME: possible race condition here:" />
+      <item value="possible race condition here" />
       <item value="File is too complex to perform data-flow analysis" />
       <item value="Cannot jump from switch statement to this case label" />
       <item value="Clang-Tidy: Use of a signed integer operand with a binary bitwise operator" />
@@ -49,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
