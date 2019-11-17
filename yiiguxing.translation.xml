@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="srand" />
+      <item value="Clang-Tidy: Rand() has limited randomness; use C++11 random library instead" />
       <item value="Clang-Tidy: Random number generator seeded with a disallowed source of seed value will generate a predictable sequence of values" />
       <item value="This method is easier and less error prone" />
       <item value="Affine" />
@@ -49,13 +51,11 @@
       <item value="Time elapsed since the controller was started" />
       <item value="Total message length in bytes" />
       <item value="Clang-Tidy: Use '= delete' to prohibit calling of a special member function" />
-      <item value="Clang-Tidy: Initialization of 'driver' with static storage duration may throw an exception that cannot be caught" />
-      <item value="This application failed to start because it could not find or load the Qt platform plugin &quot;xcb&quot;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="46" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
