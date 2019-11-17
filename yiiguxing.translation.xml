@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot jump from switch statement to this case label" />
       <item value="Clang-Tidy: Use of a signed integer operand with a binary bitwise operator" />
       <item value="Fixed mode" />
       <item value="Unconstrained mode" />
