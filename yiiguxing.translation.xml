@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rendering Properties" />
       <item value="FIXME: possible race condition here:" />
       <item value="possible race condition here" />
       <item value="File is too complex to perform data-flow analysis" />
@@ -51,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="43" />
       </map>
     </option>
   </component>
