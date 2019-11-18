@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attempt to use a deleted function destructor of 'ItemValue' is implicitly deleted because variant field 'ioValue' has a non-trivial destructor" />
       <item value="srand" />
       <item value="Clang-Tidy: Rand() has limited randomness; use C++11 random library instead" />
       <item value="Clang-Tidy: Random number generator seeded with a disallowed source of seed value will generate a predictable sequence of values" />
@@ -50,7 +51,6 @@
       <item value="Target joint currents" />
       <item value="Time elapsed since the controller was started" />
       <item value="Total message length in bytes" />
-      <item value="Clang-Tidy: Use '= delete' to prohibit calling of a special member function" />
     </histories>
     <option name="languageScores">
       <map>
