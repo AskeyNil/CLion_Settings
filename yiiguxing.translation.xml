@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distance sid" />
+      <item value="Leaf Size" />
       <item value="Attempt to use a deleted function destructor of 'ItemValue' is implicitly deleted because variant field 'ioValue' has a non-trivial destructor" />
       <item value="srand" />
       <item value="Clang-Tidy: Rand() has limited randomness; use C++11 random library instead" />
@@ -49,13 +51,11 @@
       <item value="current" />
       <item value="currents" />
       <item value="Target joint currents" />
-      <item value="Time elapsed since the controller was started" />
-      <item value="Total message length in bytes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="48" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
