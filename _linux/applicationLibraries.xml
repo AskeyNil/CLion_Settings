@@ -154,5 +154,61 @@
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.7 (opencv) interpreter library">
+      <CLASSES>
+        <root url="file:///opt/ros/kinetic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/anaconda3/envs/opencv/lib/python3.7" />
+        <root url="file://$USER_HOME$/anaconda3/envs/opencv/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/anaconda3/envs/opencv/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.CLion2019.2/system/python_stubs/-562482370" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/ros/kinetic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/anaconda3/envs/opencv/lib/python3.7" />
+        <root url="file://$USER_HOME$/anaconda3/envs/opencv/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/anaconda3/envs/opencv/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.CLion2019.2/system/python_stubs/-562482370" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 (opencv) interpreter library">
+      <CLASSES>
+        <root url="file:///opt/ros/kinetic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/anaconda3/envs/opencv/lib/python3.7" />
+        <root url="file://$USER_HOME$/anaconda3/envs/opencv/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/anaconda3/envs/opencv/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.CLion2019.2/system/python_stubs/-562482370" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/ros/kinetic/lib/python2.7/dist-packages" />
+        <root url="file://$USER_HOME$/anaconda3/envs/opencv/lib/python3.7" />
+        <root url="file://$USER_HOME$/anaconda3/envs/opencv/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/anaconda3/envs/opencv/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.CLion2019.2/system/python_stubs/-562482370" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
   </component>
 </application>
